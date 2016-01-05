@@ -22,7 +22,7 @@ body {	font-family: Arial, Helvetica, sans-serif;
 		font-size: .875em;
 	    line-height: 1.7em;
 		border-top: 3px solid #fc4903;
-		background: #eaeaea url(../img/body_bg.png) repeat;
+		background: #eaeaea url(https://cloud.githubusercontent.com/assets/3897510/12121104/95fafe22-b3f9-11e5-8352-977b8a2113c3.png) repeat;
 		color: #666;
 }
  
@@ -88,7 +88,7 @@ body {	font-family: Arial, Helvetica, sans-serif;
 
 /**************************** Coupon *********************************/
 
-.discount_value { background: url(../img/discount_bg.png) no-repeat center;
+.discount_value { background: url(https://cloud.githubusercontent.com/assets/3897510/12121121/ba1793f6-b3f9-11e5-8898-dbfac70e9650.png) no-repeat center;
                   font-family:Georgia, "Times New Roman", Times, serif;
 				  color: #fff;
 				  width: 90px; 
@@ -130,7 +130,7 @@ h2, h3 {margin: 20px 0; color: #000; text-transform:normal}
 
 h4 {font-size: 1.2em; font-weight: 700}
 
-.heading_bg {background: url(../img/heading_bg.png) repeat-x 0 30px  }
+.heading_bg {background: url(https://cloud.githubusercontent.com/assets/3897510/12121154/d9679ec2-b3f9-11e5-8200-df830032d50e.png) repeat-x 0 30px  }
 
 .heading_bg h1, 
 .heading_bg h2, 
@@ -149,9 +149,9 @@ p {
 
 .post_meta li {display: inline-block; font-family:Georgia, "Times New Roman", Times, serif; font-style:italic; font-size: 12px; height: 16px; line-height:16px; padding-left: 22px; margin-right: 15px}
 
-.post_meta_admin {background: url("../img/sprite.png") no-repeat 0 -64px}
-.post_meta_date{background: url("../img/sprite.png") no-repeat 0 -80px}
-.post_meta_comments{background: url("../img/sprite.png") no-repeat 0 0}
+.post_meta_admin {background: url("https://cloud.githubusercontent.com/assets/3897510/12121194/03f61fec-b3fa-11e5-8bc4-33e80e5ff4e0.png") no-repeat 0 -64px}
+.post_meta_date{background: url("https://cloud.githubusercontent.com/assets/3897510/12121194/03f61fec-b3fa-11e5-8bc4-33e80e5ff4e0.png") no-repeat 0 -80px}
+.post_meta_comments{background: url("https://cloud.githubusercontent.com/assets/3897510/12121194/03f61fec-b3fa-11e5-8bc4-33e80e5ff4e0.png") no-repeat 0 0}
 
 .excerpt {font-size: 1.4em; border-top: 1px dotted #999; border-bottom: 1px dotted #999; padding: 30px;}
 
