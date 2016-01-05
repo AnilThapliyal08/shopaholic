@@ -22,7 +22,7 @@ body {	font-family: Arial, Helvetica, sans-serif;
 		font-size: .875em;
 	    line-height: 1.7em;
 		border-top: 3px solid #fc4903;
-		background: #eaeaea url(https://cloud.githubusercontent.com/assets/3897510/12121104/95fafe22-b3f9-11e5-8352-977b8a2113c3.png) repeat;
+		background: #eaeaea url('https://cloud.githubusercontent.com/assets/3897510/12121104/95fafe22-b3f9-11e5-8352-977b8a2113c3.png') repeat;
 		color: #666;
 }
  
@@ -88,7 +88,7 @@ body {	font-family: Arial, Helvetica, sans-serif;
 
 /**************************** Coupon *********************************/
 
-.discount_value { background: url(https://cloud.githubusercontent.com/assets/3897510/12121121/ba1793f6-b3f9-11e5-8898-dbfac70e9650.png) no-repeat center;
+.discount_value { background: url('https://cloud.githubusercontent.com/assets/3897510/12121121/ba1793f6-b3f9-11e5-8898-dbfac70e9650.png') no-repeat center;
                   font-family:Georgia, "Times New Roman", Times, serif;
 				  color: #fff;
 				  width: 90px; 
@@ -130,7 +130,7 @@ h2, h3 {margin: 20px 0; color: #000; text-transform:normal}
 
 h4 {font-size: 1.2em; font-weight: 700}
 
-.heading_bg {background: url(https://cloud.githubusercontent.com/assets/3897510/12121154/d9679ec2-b3f9-11e5-8200-df830032d50e.png) repeat-x 0 30px  }
+.heading_bg {background: url('https://cloud.githubusercontent.com/assets/3897510/12121154/d9679ec2-b3f9-11e5-8200-df830032d50e.png') repeat-x 0 30px  }
 
 .heading_bg h1, 
 .heading_bg h2, 
