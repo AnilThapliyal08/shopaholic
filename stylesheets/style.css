@@ -445,7 +445,7 @@ color: #fff;
 .pages:hover, .current{ background-position:0 -16px; font-weight:bold; float:left; margin-right: 5px }
 /*end required css for ajax navigation 4*/
 
-.article_box, .article_box2{position:relative; float:left; width:450px; padding: 10px; border:1px solid #aaa; background: url(../img/article_bg.png) }
+.article_box, .article_box2{position:relative; float:left; width:450px; padding: 10px; border:1px solid #aaa; background: url('https://cloud.githubusercontent.com/assets/3897510/12121321/a9a10948-b3fa-11e5-8b31-deb64de73b48.png') }
 .article_box2, .box_footer{ -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; }
 
 /*loader div when content is loaded from the database*/
@@ -489,11 +489,11 @@ color: #fff;
 	height:22px;
 	outline:none;
 	text-indent:-9999px;}
-#slider3 .nivo-controlNav a.active {	background:url(../img/nivo-pag.png) bottom no-repeat;}
+#slider3 .nivo-controlNav a.active {	background:url('https://cloud.githubusercontent.com/assets/3897510/12121352/dd1f19cc-b3fa-11e5-8858-1c6fe9001fde.png') bottom no-repeat;}
 
-.nivo-directionNav a {display:block;width:50px;height:50px;background:url(../img/slideshow-nav.png) no-repeat;text-indent:-9999px;border:0;}
-a.nivo-nextNav {background:url(../img/slide-next-prev.png) right no-repeat;right:5px;}
-a.nivo-prevNav {background:url(../img/slide-next-prev.png) left no-repeat;left:5px;}
+.nivo-directionNav a {display:block;width:50px;height:50px;background:url('https://cloud.githubusercontent.com/assets/3897510/12121352/dd1f19cc-b3fa-11e5-8858-1c6fe9001fde.png') no-repeat;text-indent:-9999px;border:0;}
+a.nivo-nextNav {background:url('https://cloud.githubusercontent.com/assets/3897510/12121404/1ec60f20-b3fb-11e5-9d12-5173adf70a4d.png') right no-repeat;right:5px;}
+a.nivo-prevNav {background:url('https://cloud.githubusercontent.com/assets/3897510/12121404/1ec60f20-b3fb-11e5-9d12-5173adf70a4d.png') left no-repeat;left:5px;}
 .nivo-caption {text-shadow:none;font-size:12px;}
 .nivo-caption a {color:#efe9d1;text-decoration:underline;}
 .nivo-caption {text-shadow:none;font-family: Helvetica, Arial, sans-serif;}
