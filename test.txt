@@ -1,6 +1,6 @@
 startStep=>start: Start|past:>http://www.google.com[blank]
 e=>end: End:>http://www.google.com
-op1=>operation: Is Server Down|past:$myFunction
+op1=>operation: Is Server Down ??|past:$myFunction
 op2=>operation: Stuff|current
 sub1=>subroutine: My Subroutine|invalid
 cond=>condition: Yes
